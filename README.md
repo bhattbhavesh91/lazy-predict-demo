@@ -1,8 +1,14 @@
 # Auto-ML Using Lazy Predict Python Library
 
 ## To view the video
-* [Click here](https://youtu.be/VCm8Rr9r8ug)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=VCm8Rr9r8ug" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/VCm8Rr9r8ug?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Auto-ML Using Lazy Predict Python Library](http://img.youtube.com/vi/VCm8Rr9r8ug/0.jpg)](http://www.youtube.com/watch?v=VCm8Rr9r8ug)
 
